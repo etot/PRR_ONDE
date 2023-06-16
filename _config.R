@@ -1,4 +1,4 @@
 ## configuration
-conf_titre <- "[Prototype] Suivi des étiages (ONDE) en Normandie"
-conf_auteur <- "OFB - Direction régionale Normandie"
-conf_dep <- c("14", "27", "50", "61", "76")
+conf_titre <- "[Prototype] test"
+conf_auteur <- "OFB - Direction test"
+conf_dep <- c("14", "27")
