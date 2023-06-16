@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo      = FALSE,
 import::from("dplyr", "%>%")
 ```
 
-![logo](passets/logo_OFB_v2.png)
+![logo](assets/logo_OFB_v2.png)
 
 ```{r traitement, include=FALSE,echo = FALSE}
 `%ni%` <- Negate(`%in%`)
